@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;}
+.body {
+    border: none;
+}
+
+.menu a{
+
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+
+.menu a:hover{
+    color: #dbc905;
+   
+}
+
+.indice1 a{
+
+    text-decoration: none;
+    font-size: 28px;
+    color: white;
+}
+
+.indice1 a:hover{
+    color: #dbc905;
+   
+}
